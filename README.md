@@ -14,11 +14,11 @@ Created in blender 2.83.
 
 ### `menger-sponge-volume.blend`: full sponge cube
 
-<img src="img/cross-secton-front-view-large-colored.png?raw=true" width="540" height="540">
+<img src="img/full-cube.png?raw=true" width="540" height="540">
 
 ### `menger-sponge-volume-cut.blend`: is a cross-section cut of the cube
 
-<img src="img/full-cube.png?raw=true" width="540" height="540">
+<img src="img/cross-secton-front-view-large-colored.png?raw=true" width="540" height="540">
 
 
 ## License
